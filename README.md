@@ -14,9 +14,7 @@
 
 - 其中:Rij表示SLP法得出的作业单位间的理论关系密切度,这里采用Lee提出的关系密切度定量化定义,将作业单位间相互关系密切程度划分为6个等级,分别用A、E、I、O、U、X字母代表,其取值对应为5~0; by表示关联因子,是由作业单位i与j之间的距离d和作业单位间可能的最大距离max(d).所确定的关联程度,其量化采用Lee 的定义。
 
-    ![](C:\Users\zhao_\Desktop\SLP_GA\img\适应性函数.png)
-
-  
+    )![](img/适应性函数.png)
 
 | dij/max(d)                       | bij |
 | -------------------------------- | --- |
@@ -59,6 +57,8 @@ pip install matplotlib
 
 ### 具体效果
 
-![](C:\Users\zhao_\Desktop\SLP_GA\img\布局.png)
 
-![](C:\Users\zhao_\Desktop\SLP_GA\img\分数变化.png)
+
+![](img/布局.png)
+
+![](img/分数变化.png)
